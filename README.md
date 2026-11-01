@@ -8,7 +8,6 @@
 AI Software Engineer | MSc in Computer Engineering student
 
 - 🤖 Working on LLM applications (LangChain, RAG) and deep learning
-- ☸️ Contributing to Kubernetes Turkish localization (SIG Docs)
 - 💻 Built C projects (push_swap, minitalk) at 42 Istanbul
 - 🌱 Currently learning more about agents and RAG
 
